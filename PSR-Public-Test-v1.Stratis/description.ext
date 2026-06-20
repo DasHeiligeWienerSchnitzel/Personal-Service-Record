@@ -1,0 +1,22 @@
+import RscXListBox;
+
+#include "defines.hpp"
+#include "control.hpp"
+
+class CfgFunctions 
+{
+	class ER32 
+	{
+		class PSR 
+		{
+			file = "Scripts\functions"; //folder
+			
+			class PSR_receiveAward {};
+			class PSR_getPublicRecord {};
+			class PSR_openPublicRecord {};
+			class PSR_saveEdits {};
+			class PSR_getEdits {};
+			class PSR_refreshEditMedals {};
+		};
+	};
+};

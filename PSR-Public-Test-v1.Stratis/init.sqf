@@ -1,0 +1,1 @@
+execVM "ER32_PSR_config.sqf";
